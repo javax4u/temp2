@@ -1,3 +1,5 @@
+[Youtube video link for this turoial](https://www.youtube.com/watch?v=pyJDBiRmFRw)
+
 ![flow diagram](temporary-notepad.jpg)
 
 ```
